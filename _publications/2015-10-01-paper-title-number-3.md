@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Precision calibration of calorimeter signals in the ATLAS experiment using an uncertainty-aware neural network"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Application of deep neural networks for the use of calibrating the topological cell clusters in the ATLAS calorimeters. The goal of improve the calibration of the cluster energy to the true energy at low energies.'
+date: 2024-12-05
+venue: 'ArXiv'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://pmv8ev.github.io/files/pdf/papers/prescision_calibration_of_calorimter_signals_in_ATLAS.pdf'
+citation: 'ATLAS Collaboration. (2024). Precision calibration of calorimeter signals in the ATLAS experiment using an uncertainty-aware neural network. arXiv preprint arXiv:2412.04370.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The ATLAS experiment at the Large Hadron Collider explores the use of modern neural networks for a multi-dimensional calibration of its calorimeter signal defined by clusters of topologically connected cells (topo-clusters). The Bayesian neural network (BNN) approach not only yields a continuous and smooth calibration function that improves performance relative to the standard calibration but also provides uncertainties on the calibrated energies for each topo-cluster. The results obtained by using a trained BNN are compared to the standard local hadronic calibration and to a calibration provided by training a deep neural network. The uncertainties predicted by the BNN are interpreted in the context of a fractional contribution to the systematic uncertainties of the trained calibration. They are also compared to uncertainty predictions obtained from an alternative estimator employing repulsive ensembles. 

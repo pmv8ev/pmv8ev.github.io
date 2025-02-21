@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A bijection for tuples of commuting permutations and a log-concavity conjecture"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We provide a new proof of an explicit formula for A(p, n, k) which is essentially due to Bryan and Fulman, in their work on orbifold higher equivariant Euler characteristics. '
+date: 2023-09-18
+venue: 'Research in Number Theory'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://pmv8ev.github.io/files/pdf/papers/bijection_for_tuples_of_commuting_permutations_and_log_concavity_conjecture.pdf'
+citation: 'Abdesselam, A., Brunialti, P., Doan, T., & Velie, P. (2024). A bijection for tuples of commuting permutations and a log-concavity conjecture. Research in Number Theory, 10(2), 45.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Let A(ℓ,n,k) denote the number of ℓ-tuples of commuting permutations of n elements whose permutation action results in exactly k orbits or connected components. We provide a new proof of an explicit formula for A(ℓ,n,k) which is essentially due to Bryan and Fulman, in their work on orbifold higher equivariant Euler characteristics. Our proof is self-contained, elementary, and relies on the construction of an explicit bijection, in order to perform the ℓ+1→ℓ reduction. We also investigate a conjecture by the first author, regarding the log-concavity of A(ℓ,n,k) with respect to k. The conjecture generalizes a previous one by Heim and Neuhauser related to the Nekrasov-Okounkov formula. 
